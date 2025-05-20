@@ -28,7 +28,6 @@ Output for Swing Program4 :-
 https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-4_Swing/4a.png
 https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-4_Swing/4b.png
 https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-4_Swing/4c.png
-https://github.com/dhanarajsbiradar/Advancedjava/blob/main/Exp-4_Swing/ImageButton.java
 
 Output for Swing Operations Program5 :- 
 
